@@ -1,0 +1,13 @@
+PODS:
+  - LHSKeyboardAdjusting (0.0.1)
+  - SZTextView (1.2.1)
+
+DEPENDENCIES:
+  - LHSKeyboardAdjusting
+  - SZTextView
+
+SPEC CHECKSUMS:
+  LHSKeyboardAdjusting: d24fb1f05732db354a9d5f0348941a694bc6df4c
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+
+COCOAPODS: 0.38.0.beta.2
